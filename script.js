@@ -1,3 +1,4 @@
+// Thanks hussien
 function spreadOperatorExample(){
     var arr  = [1,2,3,4,5,6,7]
     var [a,b,...arr]=arr
